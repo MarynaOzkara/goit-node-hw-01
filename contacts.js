@@ -1,4 +1,7 @@
+const fs = require("fs").promises;
+
 /*
+
  * Розкоментуй і запиши значення
  * const contactsPath = ;
  */
